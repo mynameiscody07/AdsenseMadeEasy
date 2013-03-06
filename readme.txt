@@ -1,4 +1,11 @@
-﻿=== Adsense Made Easy===
+﻿THIS IS NOT TO BE USED.   I am creating my online portfolio and needed to get all of my old projects online.   This plugin no longer works with the current Adsense API.  
+
+DO NOT USE THIS CODE OR PLUGIN
+
+
+
+
+=== Adsense Made Easy===
 Contributors: Drumn4life0789
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ZKGJAQGB9YFEA&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: adsense, plugin, adsense plugin, ads, google, adsense widget, widget
